@@ -1,0 +1,21 @@
+.EditorWrapper {
+    width: 35%;
+    height: 80%;
+    border: 1px solid black;
+    border-radius: .2rem;
+}
+
+.Editor {
+    height: 95%;
+    outline: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #0D0C1D;
+    overflow: auto;
+    font-family: 'Cutive Mono', monospace;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    width: 100%;
+    color: #F1DAC4;
+}

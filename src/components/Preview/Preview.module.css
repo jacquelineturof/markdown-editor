@@ -1,0 +1,16 @@
+.PreviewWrapper {
+    width: 60%;
+    height: 80%;
+}
+
+.Preview {
+    height: 95%;
+    width: 100%;
+    overflow: auto;
+    box-shadow: -1px -2px 23px -6px rgba(0,0,0,0.75);
+}
+
+.Preview img {
+    height: 100px;
+    width: 100px;
+}

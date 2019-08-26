@@ -1,0 +1,10 @@
+.TopBar {
+    background-color: #474973;
+    height: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    color: #F1DAC4;
+}
